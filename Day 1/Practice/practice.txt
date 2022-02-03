@@ -6,5 +6,3 @@ colne the project
 delete the hidden 
 made new repository into remote
 push newly created repository
-
-this is jeet changing in your file...!

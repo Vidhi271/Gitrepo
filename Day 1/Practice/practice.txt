@@ -1,1 +1,8 @@
 Created repository
+Clone the repositary in local system
+make some change in code, then commit the same into local then push to remote
+took pull first before push
+colne the project
+delete the hidden 
+made new repository into remote
+push newly created repository

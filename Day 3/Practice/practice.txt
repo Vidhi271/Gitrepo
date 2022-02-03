@@ -1,1 +1,7 @@
-
+create a branch
+to main to devlopmenet 
+to devlopmenet to test
+mearge
+reverse merge
+conflict resolve
+create pull request
